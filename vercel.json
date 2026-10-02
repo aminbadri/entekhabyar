@@ -1,0 +1,6 @@
+{
+  "buildCommand": "python3 scripts/build_vercel.py",
+  "outputDirectory": "_site",
+  "framework": null,
+  "installCommand": "pip install -r requirements-data.txt"
+}

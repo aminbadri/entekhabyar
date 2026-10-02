@@ -1,0 +1,275 @@
+{
+  "meta": {
+    "title": "اطلس ظرفیت پذیرش دانشگاه‌های ایران ۱۴۰۴",
+    "year": 1404,
+    "rowCount": 40538,
+    "activeRowCount": 40534,
+    "inactiveRowCount": 4,
+    "columnCount": 37,
+    "capacity": 602966,
+    "universities": 839,
+    "fields": 2777,
+    "sourceOrganization": "سازمان سنجش آموزش کشور",
+    "compiledBy": "حسین کریمی"
+  },
+  "byDegree": [
+    {
+      "name": "کارشناسی",
+      "records": 16700,
+      "capacity": 410485,
+      "universities": 747,
+      "fields": 296
+    },
+    {
+      "name": "کارشناسی ارشد",
+      "records": 16406,
+      "capacity": 133775,
+      "universities": 524,
+      "fields": 2187
+    },
+    {
+      "name": "کاردانی",
+      "records": 353,
+      "capacity": 22396,
+      "universities": 174,
+      "fields": 43
+    },
+    {
+      "name": "دکتری حرفه ای",
+      "records": 1351,
+      "capacity": 20990,
+      "universities": 137,
+      "fields": 9
+    },
+    {
+      "name": "دکتری تخصصی (Ph.D)",
+      "records": 5724,
+      "capacity": 15320,
+      "universities": 146,
+      "fields": 538
+    }
+  ],
+  "byProvince": [
+    {
+      "name": "تهران",
+      "records": 8609,
+      "capacity": 83344,
+      "universities": 100,
+      "fields": 1581
+    },
+    {
+      "name": "اصفهان",
+      "records": 2691,
+      "capacity": 44323,
+      "universities": 59,
+      "fields": 638
+    },
+    {
+      "name": "خراسان رضوی",
+      "records": 2490,
+      "capacity": 43413,
+      "universities": 63,
+      "fields": 584
+    },
+    {
+      "name": "مازندران",
+      "records": 2315,
+      "capacity": 42611,
+      "universities": 68,
+      "fields": 583
+    },
+    {
+      "name": "فارس",
+      "records": 1919,
+      "capacity": 34485,
+      "universities": 53,
+      "fields": 478
+    },
+    {
+      "name": "آذربایجان شرقی",
+      "records": 2279,
+      "capacity": 31547,
+      "universities": 43,
+      "fields": 565
+    },
+    {
+      "name": "خوزستان",
+      "records": 1211,
+      "capacity": 22711,
+      "universities": 40,
+      "fields": 411
+    },
+    {
+      "name": "کرمان",
+      "records": 1482,
+      "capacity": 22606,
+      "universities": 40,
+      "fields": 412
+    },
+    {
+      "name": "آذربایجان غربی",
+      "records": 1248,
+      "capacity": 19041,
+      "universities": 29,
+      "fields": 384
+    },
+    {
+      "name": "سمنان",
+      "records": 1303,
+      "capacity": 18832,
+      "universities": 27,
+      "fields": 389
+    },
+    {
+      "name": "قم",
+      "records": 1098,
+      "capacity": 18417,
+      "universities": 29,
+      "fields": 396
+    },
+    {
+      "name": "گیلان",
+      "records": 1134,
+      "capacity": 17569,
+      "universities": 28,
+      "fields": 349
+    },
+    {
+      "name": "سیستان و بلوچستان",
+      "records": 1226,
+      "capacity": 17526,
+      "universities": 27,
+      "fields": 342
+    },
+    {
+      "name": "یزد",
+      "records": 980,
+      "capacity": 16851,
+      "universities": 19,
+      "fields": 341
+    },
+    {
+      "name": "قزوین",
+      "records": 718,
+      "capacity": 15673,
+      "universities": 18,
+      "fields": 273
+    },
+    {
+      "name": "همدان",
+      "records": 992,
+      "capacity": 14498,
+      "universities": 23,
+      "fields": 351
+    },
+    {
+      "name": "گلستان",
+      "records": 833,
+      "capacity": 13115,
+      "universities": 22,
+      "fields": 297
+    },
+    {
+      "name": "کرمانشاه",
+      "records": 705,
+      "capacity": 12405,
+      "universities": 19,
+      "fields": 304
+    },
+    {
+      "name": "البرز",
+      "records": 1075,
+      "capacity": 11645,
+      "universities": 13,
+      "fields": 429
+    },
+    {
+      "name": "مرکزی",
+      "records": 630,
+      "capacity": 11433,
+      "universities": 21,
+      "fields": 232
+    },
+    {
+      "name": "لرستان",
+      "records": 668,
+      "capacity": 9812,
+      "universities": 17,
+      "fields": 236
+    },
+    {
+      "name": "کردستان",
+      "records": 535,
+      "capacity": 9753,
+      "universities": 14,
+      "fields": 250
+    },
+    {
+      "name": "هرمزگان",
+      "records": 697,
+      "capacity": 9597,
+      "universities": 23,
+      "fields": 242
+    },
+    {
+      "name": "زنجان",
+      "records": 539,
+      "capacity": 9199,
+      "universities": 11,
+      "fields": 264
+    },
+    {
+      "name": "خراسان جنوبی",
+      "records": 618,
+      "capacity": 9040,
+      "universities": 13,
+      "fields": 219
+    },
+    {
+      "name": "اردبیل",
+      "records": 572,
+      "capacity": 8863,
+      "universities": 12,
+      "fields": 264
+    },
+    {
+      "name": "بوشهر",
+      "records": 408,
+      "capacity": 8751,
+      "universities": 14,
+      "fields": 168
+    },
+    {
+      "name": "خراسان شمالی",
+      "records": 387,
+      "capacity": 7961,
+      "universities": 15,
+      "fields": 143
+    },
+    {
+      "name": "چهارمحال و بختیاری",
+      "records": 433,
+      "capacity": 6502,
+      "universities": 11,
+      "fields": 215
+    },
+    {
+      "name": "کهگیلویه و بویراحمد",
+      "records": 414,
+      "capacity": 5944,
+      "universities": 9,
+      "fields": 163
+    },
+    {
+      "name": "ایلام",
+      "records": 325,
+      "capacity": 5499,
+      "universities": 7,
+      "fields": 177
+    }
+  ],
+  "source": {
+    "url": "https://github.com/Hhhkarimi/sanjesh1404",
+    "summary": "https://raw.githubusercontent.com/Hhhkarimi/sanjesh1404/main/site/data/summary.json"
+  }
+}

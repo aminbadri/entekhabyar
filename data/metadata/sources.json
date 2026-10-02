@@ -1,0 +1,17 @@
+{
+  "jobvision": {
+    "year": 1405,
+    "url": "https://fileapi.jobvision.ir/public-files/reports/jobvision-education-field-selection-guide-1405.pdf",
+    "pages": 263,
+    "publisher": "JobVision",
+    "note": "Build-time source; table extraction is validated by page/field provenance."
+  },
+  "sanjesh_reference": {
+    "year": 1404,
+    "repo": "https://github.com/Hhhkarimi/sanjesh1404",
+    "site": "https://sanjesh1404.vercel.app/",
+    "summary_url": "https://raw.githubusercontent.com/Hhhkarimi/sanjesh1404/main/site/data/summary.json",
+    "records_url": "https://raw.githubusercontent.com/Hhhkarimi/sanjesh1404/main/site/data/records.ndjson.gz",
+    "publisher": "سازمان سنجش آموزش کشور / compiled by حسین کریمی"
+  }
+}

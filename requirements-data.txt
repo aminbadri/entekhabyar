@@ -1,0 +1,6 @@
+pandas>=2.2
+pdfplumber>=0.11
+pymupdf>=1.24
+requests>=2.32
+rapidfuzz>=3.9
+openpyxl>=3.1
